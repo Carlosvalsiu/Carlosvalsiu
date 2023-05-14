@@ -28,6 +28,7 @@ Javascript, HTML, CSS, React, Vue, Axios, virtualMachines, Docker, Sql.
 
 
 ```plaintext
+
     ,---,                              .--.--.
   .'  .' `\                    ,---,  /  /    '.
 ,---.'     \                 ,---.'| |  :  /`. /
@@ -41,4 +42,6 @@ Javascript, HTML, CSS, React, Vue, Axios, virtualMachines, Docker, Sql.
 ;   :  .'     |   :    | |   :    :|   `--'---'   |   :    | |   :    :
 |   ,.'        \   \  /   \   \  /                 \   \  /   \   \  /
 '---'           `----'     `----'                   `----'     `----'
+
+⠀⠀
 ```
